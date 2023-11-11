@@ -765,9 +765,9 @@ img {
   fill: #ffffff;
   margin-left: 16px;
 }
-.subscribe-button-footer,
-.subscribe-button-footer,
-.subscribe-button-footer {
+.subscribe-button-footer:hover,
+.subscribe-button-footer:focus,
+.subscribe-button-footer:active {
   background-color: var(--OCEAN);
 }
 .subscribe-paragraph {
