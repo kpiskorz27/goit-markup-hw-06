@@ -727,7 +727,7 @@ img {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: #ffffff;
+  color: var(--WHITE);
   cursor: pointer;
   background-color: var(--IRIS);
   border: none;
@@ -753,7 +753,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.04em;
   font-weight: 500;
-  color: #ffffff;
+  color: var(--WHITE);
   cursor: pointer;
   background-color: var(--IRIS);
   border: none;
@@ -762,7 +762,7 @@ img {
   margin-top: 20px;
 }
 .subscribe-icon-paper-plane {
-  fill: #ffffff;
+  fill: var(--WHITE);
   margin-left: 16px;
 }
 .subscribe-button-footer:hover,
@@ -776,7 +776,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   font-size: 16px;
-  color: #ffffff;
+  color: var(--WHITE);
   text-align: center;
 }
 .footer-form {
@@ -789,7 +789,7 @@ img {
 .input-footer {
   width: 264px;
   height: 40px;
-  border: 1px solid #ffffff;
+  border: 1px solid var(--WHITE);
   background-color: transparent;
   font-size: 12px;
   line-height: 1.5;
@@ -797,8 +797,8 @@ img {
   padding-left: 16px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
-  color: #ffffff;
+  color: var(--WHITE);
 }
 .input-footer::placeholder {
-  color: #ffffff;
+  color: var(--WHITE);
 }
