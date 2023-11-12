@@ -672,7 +672,7 @@ img {
   fill: var(--IRIS);
 }
 .form-comment {
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 }
 .form-textarea {
   width: 100%;
@@ -773,7 +773,7 @@ img {
   color: var(--WHITE);
 }
 .checkbox-container {
-  margin-bottom: 16px;
+  margin-bottom: 24px;
 }
 .input-checkbox:checked + .label-checkbox span {
   background-color: #404bbf;
